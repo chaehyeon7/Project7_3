@@ -11,7 +11,7 @@
         android:src="@drawable/star"
         android:scaleType="fitXY"/>
     <TextView
-        android:id="@+id/toast_text"
+        android:id="@+id/toast_text1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"
